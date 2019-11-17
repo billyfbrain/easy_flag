@@ -5,6 +5,7 @@ authors = ["billyfbrain <billyfbrain@gmail.com>"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/billyfbrain/easy_flag"
 homepage = "https://crates.io/crates/easy_flag"
+documentation = "https://docs.rs/easy_flag/0.1.0/easy_flag/"
 readme = "README.md"
 categories = ["command-line-interface"]
 description = """Simple command line flag parser"""
