@@ -4,7 +4,7 @@ easy_flag
 Simple command line flag parser for rust.
 
 ```rust
-use flag::FlagSet;
+use easy_flag::FlagSet;
 
 fn main() -> Result<(), String>{
     let mut help = false;
