@@ -146,6 +146,8 @@ impl<'a> FlagSet<'a> {
                         return Err(format!("flag needs an argument: {}", f.name));
                     }
                 }
+            } else {
+                return Err(format!("flag {} provided but not defined", item));
             }
         }
         Ok(())
