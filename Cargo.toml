@@ -1,6 +1,6 @@
 [package]
 name = "easy_flag"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["billyfbrain <billyfbrain@gmail.com>"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/billyfbrain/easy_flag"
